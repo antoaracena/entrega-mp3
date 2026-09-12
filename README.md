@@ -1,4 +1,4 @@
-# Nombre del dispositivo
+MP3 interactivo
 
 Interfaz sonora tangible construida mediante **keyboard hack**: reemplaza una tecla convencional por un mecanismo de contacto físico creativo que, al activarse, gatilla una rutina de audio digital en tiempo real.
 
